@@ -1,0 +1,8 @@
+# Persönliche Daten (Exporte) niemals hochladen – das Repository ist öffentlich.
+daten/
+*.json.bak
+.claude/
+# Alte claude.ai-Artifact-Version (läuft nur dort)
+projektplan.html
+Thumbs.db
+desktop.ini
